@@ -3,7 +3,7 @@ Description:-
 The Employee Management System (EMS) is a web-based application designed to facilitate the management of employee records within an organization. 
 The system provides functionalities for creating, reading, updating, and deleting employee records.The system is build in Java
 using Spring Boot (MVC), which provides a robust and scalable framework for building the application.The front end is build using Thyme leaf as 
-template engine and bootstrap framework for CSS.
+template engine and bootstrap framework for CSS.For unit testing purpose Junit (Mockito) has been used.
 
 Screenshots:
 
